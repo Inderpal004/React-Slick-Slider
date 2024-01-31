@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Slick-Slider/static/css/main.5cd04d1b.css",
+    "main.js": "/React-Slick-Slider/static/js/main.b280d002.js",
+    "static/media/slick.svg": "/React-Slick-Slider/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-Slick-Slider/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-Slick-Slider/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-Slick-Slider/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-Slick-Slider/index.html",
+    "main.5cd04d1b.css.map": "/React-Slick-Slider/static/css/main.5cd04d1b.css.map",
+    "main.b280d002.js.map": "/React-Slick-Slider/static/js/main.b280d002.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd04d1b.css",
+    "static/js/main.b280d002.js"
+  ]
+}
